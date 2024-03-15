@@ -1,4 +1,5 @@
-<h1>This is tik tack toy game</h1>
-<p>Let's play this game. In this game there are two players. they both will select alternatively  thier place of x or 0 accordingly until get the same axis x or 0 or as cross line. who will get create fist he will won the game</p> 
+# Tik-Tac-Toe Game
 
-<img src="tik-toy.png">
+Let's play this game. In this game, there are two players. They both will select alternatively their place of 'X' or 'O' accordingly until they get the same axis 'X' or 'O' or as a cross line. The player who creates the winning pattern first will win the game.
+
+![Tik-Tac-Toe](tik-toy.png)
